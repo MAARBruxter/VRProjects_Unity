@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 8c2eab318b5c43e428271baad0d71d09
+  productGUID: ffd392361266556408715399758ba90c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: VRModulo3
+  productName: Mod3
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -779,14 +779,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: VRModulo3
+  metroPackageName: Mod3
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: VRModulo3
+  metroApplicationDescription: Mod3
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -858,11 +858,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 95f301da-30c4-457e-ab1d-1a1af79ae3d1
+  cloudProjectId: 5dbd0282-0760-4cd4-a427-d3295c8dd0e2
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: VRModulo3
-  organizationId: albertofhdv
+  projectName: Mod3
+  organizationId: saraymr9
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
